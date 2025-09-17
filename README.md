@@ -77,7 +77,3 @@ Local URL: http://localhost:8502
 - Predicts claim approval based on customer data.
 - Provides analytics and insights about insurance charges.
 - Demonstrates end-to-end **data science workflow** from data prep to web deployment.
-
-```
-
-```
